@@ -10,7 +10,7 @@
 
 ***Lenguaje:** AMS - C*
 
-**Universidad:** UNIVERSIDAD NACIONAL DE PIURA
+***Universidad:** UNIVERSIDAD NACIONAL DE PIURA*
 
 -  ***TE1: Librería para implementación de retardos.***
 
